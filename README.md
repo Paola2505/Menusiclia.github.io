@@ -52,7 +52,7 @@
           </div>
         </div>
       </div>          
-       <h1> PRIMI PIATTI</h1>
+       <h1 style="color:red"> PRIMI PIATTI</h1>
     <P>Con questi primi piatti riuscerete a viaggiare tutta la Sicilia attraverso il senso del gusto!</P>
     <ul>
     	<li>Pasta alla norma: iniziamo con un classico, è composta dalle melanzane, dalla salsa di pomodoro e ricotta salata.</li>
@@ -61,7 +61,7 @@
     	<li>Pasta n'casciata:maccheroni, 2 uova sode, melanzana,proscitto cotto,caciocavallo fresco, passata di pomodoro,basilico, pangrattato, sale e pepe.</li>
     	<li>Pasta cà muddica atturrata:spaghetti,aglio,peperoncino,pangrattato,olio evo,acciughe,sale e pepe nero.</li>	
 	
-<h1>I NOSTRI SECONDI</h1>
+<h1 style="color:red">I NOSTRI SECONDI</h1>
 <p>La cucina siciliana è imbattibile. Forte di una tradizione millenaria, non teme confronti e conquista i palati di tutto il mondo.</p>
  <ul>
  	<li>Sarde a beccafico: non possiamo che iniziare con un piatto che è noto in tutto il mondo. Questi piccoli involtini di sarde sono tipici del Palermitano, ma ben noti in tutta la Sicilia. Gli ingredienti sono semplici, il risultato speciale!</li>
@@ -70,7 +70,7 @@
  	<li>Agglassato di carne: il termine “agglassato” deriva dal verbo francese “glacer”, glassare. Fa riferimento al tipo di preparazione della ricetta. Le cipolle, a cottura ultimata, avvolgono completamente la carne, così come in pasticceria una glassa ricopre interamente un dolce</li>
  </ul>
 
-<h1> I NOSTRI DOLCI!</h1>
+<h1 style="color:red"> I NOSTRI DOLCI!</h1>
 	<p> non importa quanto tu abbia mangiato.. c'è sempre spazio per un dolce!</p>
 	<ul>
 		<li>Il cannolo: è costituito da una cialda di pasta fritta ed un ripieno a base di ricotta di pecora setacciata e zuccherata. Per la scorza, si formano piccoli dischi di pasta (fatta di farina di grano tenero, vino, zucchero e strutto) che vengono arrotolati su piccoli tubi (oggi di metallo o legno) e poi fritti, tradizionalmente nello strutto o nell’olio. Al ripieno vengono poi aggiunti canditi o gocce di cioccolata, ed infine il dolce viene spolverato di zucchero a velo.</li>
