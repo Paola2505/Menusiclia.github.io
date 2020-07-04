@@ -19,15 +19,22 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen"/>
 </head>
    <body>
-Questo sito è stato creato per dare, innanzitutto, un contributo ambientale; ma anche per aiutare tutti i ristorati che si trovano a doversi adattare alle nuove norme anti-Covid.
-
-
-Speriamo di poter portare tutti i colori della Sicilia.
-
--   [ANTIPASTI](#)
--   [PRIMI](#)
--   [SECONDI](#)
--   [DOLCI](#)
+<h1 style="color: white" ; font-family: freestyle script; font size: 30px > Questo sito è stato creato per dare, innanzitutto, un contributo ambientale; ma anche per aiutare tutti i ristorati che si trovano a doversi adattare alle nuove norme anti-Covid.</h1>
+     	<p>Speriamo di poter portare tutti i colori della Sicilia.</p>
+      		<ul class="nav">
+      			<li class="nav-item">
+      				<a class="nav-link" href="#">ANTIPASTI</a>
+      			</li>
+      			<li class="nav-item">
+      				<a class="nav-link" href="#">PRIMI</a>
+      			</li>
+      			<li class="nav-item">
+      				<a class="nav-link" href="#">SECONDI</a>
+      			</li>
+      			<li class="nav-item">
+      				<a class="nav-link" href="#">DOLCI</a>
+      			</li>
+      		</ul>
 
 
 <h1 style="color:red">I NOSTRI ANTIPASTI</h1>
@@ -42,8 +49,7 @@ Speriamo di poter portare tutti i colori della Sicilia.
 <p style="font font-family: freestyle script; text-align: right; font-size: 30px; color: white"> la terra tra le mani e la baciò...</p> 
 <p style="font font-family: freestyle script; text-align: right; font-size: 30px; color: white">la' dove pose le sue labbra è la Sicilia."</p>
  </ul>
-<script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
- <script src="js/bootstrap.min.js"></script>
+
 
 
 PRIMI PIATTI
@@ -95,5 +101,8 @@ non importa quanto tu abbia mangiato.. c'è sempre spazio per un dolce!
     e cioccolato. L’impasto è a base di fichi secchi, mandorle, noci,
     cacao, uvetta, marmellata e miele. La particolarità, oltre la forma,
     è la glassa di decorazione con zuccherini colorati.
+    
+    <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+ <script src="js/bootstrap.min.js"></script>
     </body>
 </html>
