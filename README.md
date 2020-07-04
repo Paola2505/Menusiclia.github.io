@@ -58,7 +58,7 @@
        <div class="row">
          <div class="navbar navbar-invers">
             <div class="navbar-header">
-                <a href="#" class="navbar-brand">Siciian Food</a>
+                <a href="#" class="navbar-brand">Sicilian Food</a>
             </div>
           </div>
         </div>
