@@ -20,6 +20,7 @@
 </head>
    <body>
 	   <h1 style="color: white" ; font-family: freestyle script; font size: 30px >
+		   <p style= "color: white"; font-family:freestyle script; font size: 30px">
 <h1> Questo sito è stato creato per dare, innanzitutto, un contributo ambientale; ma anche per aiutare tutti i ristorati che si trovano a doversi adattare alle nuove norme anti-Covid.</h1>
      	<p>Speriamo di poter portare tutti i colori della Sicilia.</p>
       		<ul class="nav">
