@@ -1,7 +1,7 @@
 # Paola2505.github.io
 <html lang="en">
     <head>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta charset="utf-8">
         <link rel="stylesheet" href="css/bootstrap.min.css">
 	<style type="text/css">
@@ -16,7 +16,7 @@
 		font-family: freestyle script;}
 	p{font-family: freestyle script;  font-size: 50px; color: white;}
 	</style>
-	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen"/>
+	<link rel="stylesheet" href="css/bootstrap.min.css.map">
 </head>
    <body>
 <h1> Questo sito è stato creato per dare, innanzitutto, un contributo ambientale; ma anche per aiutare tutti i ristoratori che si trovano a doversi adattare alle nuove norme anti-Covid.</h1>
@@ -78,9 +78,8 @@
 		<li>Froscia: un chilo di ricotta, 500 gr di zucchero, 10 uova precedentemente sbattute, 200 gr di caciocavallo freschissimo dolce grattugiato, una ventina di foglioline di menta, un pizzico di cannella</li>
 		<li>Purciddato: sono dei biscotti a base di fichi secchi, mandorle, noci e cioccolato. L’impasto è a base di fichi secchi, mandorle, noci, cacao, uvetta, marmellata e miele. La particolarità, oltre la forma, è la glassa di decorazione con zuccherini colorati.</li>
 	</ul>
-    
-   <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
- <script src="js/bootstrap.min.js"></script>
- 
+    <script src="js/jquery-3.5.1.min"></script>
+		<script src="js/popper.min"></script>
+		<script src="js/bootstrap.min.js.map"></script>
    </body>
 </html>
