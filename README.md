@@ -38,7 +38,7 @@
 
 
 <h1 style="color:red">I NOSTRI ANTIPASTI</h1>
-<p style="font-size: 30px;">I nostri antipasti sono tutti prodotti con alimenti a km 0</p>
+<p style="font-size: 50px; color:white;">I nostri antipasti sono tutti prodotti con alimenti a km 0</p>
 <body background="https://acicastelloonline.files.wordpress.com/2017/03/agrumi-siciliani.jpg">
  <ul>
  	<li>la caponata: melanzane, cipolla, sedano, concentrato di pomodoro, olive verdi, pinoli, sale, pomodori, capperi e basilico.</li>
