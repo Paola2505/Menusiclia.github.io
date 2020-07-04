@@ -1,4 +1,6 @@
 # Paola2505.github.io
+<body>
+<body background="https://acicastelloonline.files.wordpress.com/2017/03/agrumi-siciliani.jpg">
 Questo sito è stato creato per dare, innanzitutto, un contributo ambientale; ma anche per aiutare tutti i ristorati che si trovano a doversi adattare alle nuove norme anti-Covid.
 ==================================================================================================================================================================================
 
@@ -72,3 +74,4 @@ non importa quanto tu abbia mangiato.. c'è sempre spazio per un dolce!
     e cioccolato. L’impasto è a base di fichi secchi, mandorle, noci,
     cacao, uvetta, marmellata e miele. La particolarità, oltre la forma,
     è la glassa di decorazione con zuccherini colorati.
+    </body>
