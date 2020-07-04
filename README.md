@@ -14,13 +14,13 @@
 	li{padding: 10px 10px 10px 10px;
 		font-size: 30px;
 		font-family: freestyle script;}
-	p{font-family: freestyle script;}
+	p{font-family: freestyle script;  font-size: 50px; color: white;}
 	</style>
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen"/>
 </head>
    <body>
 <h1> Questo sito è stato creato per dare, innanzitutto, un contributo ambientale; ma anche per aiutare tutti i ristorati che si trovano a doversi adattare alle nuove norme anti-Covid.</h1>
-     	<p style="color: white; font-size: 50px;"> Speriamo di poter portare tutti i colori della Sicilia.</p>
+     	<p> Speriamo di poter portare tutti i colori della Sicilia.</p>
       		<ul class="nav">
       			<li class="nav-item">
       				<a class="nav-link" href="#">ANTIPASTI</a>
