@@ -58,7 +58,7 @@
        <div class="row">
          <div class="navbar navbar-invers">
             <div class="navbar-header">
-                <a href="#" class="navbar-brand">Sicilian Food</a>
+                <a href="#" class="navbar-brand"></a>
             </div>
           </div>
         </div>
@@ -72,33 +72,16 @@
     	<li>Pasta n'casciata:maccheroni, 2 uova sode, melanzana,proscitto cotto,caciocavallo fresco, passata di pomodoro,basilico, pangrattato, sale e pepe.</li>
     	<li>Pasta cà muddica atturrata:spaghetti,aglio,peperoncino,pangrattato,olio evo,acciughe,sale e pepe nero.</li>	
 
-I NOSTRI DOLCI!
-===============
-
-non importa quanto tu abbia mangiato.. c'è sempre spazio per un dolce!
-
--   Il cannolo: è costituito da una cialda di pasta fritta ed un ripieno
-    a base di ricotta di pecora setacciata e zuccherata. Per la scorza,
-    si formano piccoli dischi di pasta (fatta di farina di grano tenero,
-    vino, zucchero e strutto) che vengono arrotolati su piccoli tubi
-    (oggi di metallo o legno) e poi fritti, tradizionalmente nello
-    strutto o nell’olio. Al ripieno vengono poi aggiunti canditi o gocce
-    di cioccolata, ed infine il dolce viene spolverato di zucchero a
-    velo.
--   La cassata: Nell’immaginario collettivo è la “torta tradizionale
-    siciliana”, "la regina dei dolci", a base di crema di ricotta, pasta
-    reale e frutta candita. In realtà, è una definizione
-    riduttiva...provare per credere!
--   Froscia: un chilo di ricotta, 500 gr di zucchero, 10 uova
-    precedentemente sbattute, 200 gr di caciocavallo freschissimo dolce
-    grattugiato, una ventina di foglioline di menta, un pizzico di
-    cannella
--   Purciddato: sono dei biscotti a base di fichi secchi, mandorle, noci
-    e cioccolato. L’impasto è a base di fichi secchi, mandorle, noci,
-    cacao, uvetta, marmellata e miele. La particolarità, oltre la forma,
-    è la glassa di decorazione con zuccherini colorati.
+<h1> I NOSTRI DOLCI!</h1>
+	<p> non importa quanto tu abbia mangiato.. c'è sempre spazio per un dolce!</p>
+	<ul>
+		<li>Il cannolo: è costituito da una cialda di pasta fritta ed un ripieno a base di ricotta di pecora setacciata e zuccherata. Per la scorza, si formano piccoli dischi di pasta (fatta di farina di grano tenero, vino, zucchero e strutto) che vengono arrotolati su piccoli tubi (oggi di metallo o legno) e poi fritti, tradizionalmente nello strutto o nell’olio. Al ripieno vengono poi aggiunti canditi o gocce di cioccolata, ed infine il dolce viene spolverato di zucchero a velo.</li>
+		<li>La cassata: Nell’immaginario collettivo è la “torta tradizionale siciliana”, "la regina dei dolci", a base di crema di ricotta, pasta reale e frutta candita. In realtà, è una definizione riduttiva...provare per credere!</li>
+		<li>Froscia: un chilo di ricotta, 500 gr di zucchero, 10 uova precedentemente sbattute, 200 gr di caciocavallo freschissimo dolce grattugiato, una ventina di foglioline di menta, un pizzico di cannella</li>
+		<li>Purciddato: sono dei biscotti a base di fichi secchi, mandorle, noci e cioccolato. L’impasto è a base di fichi secchi, mandorle, noci, cacao, uvetta, marmellata e miele. La particolarità, oltre la forma, è la glassa di decorazione con zuccherini colorati.</li>
+	</ul>
     
-    <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+   <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
  <script src="js/bootstrap.min.js"></script>
     </body>
 </html>
