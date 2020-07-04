@@ -19,7 +19,7 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen"/>
 </head>
    <body>
-<h1> Questo sito è stato creato per dare, innanzitutto, un contributo ambientale; ma anche per aiutare tutti i ristorati che si trovano a doversi adattare alle nuove norme anti-Covid.</h1>
+<h1> Questo sito è stato creato per dare, innanzitutto, un contributo ambientale; ma anche per aiutare tutti i ristoratori che si trovano a doversi adattare alle nuove norme anti-Covid.</h1>
      	<p> Speriamo di poter portare tutti i colori della Sicilia.</p>
       		<ul class="nav">
       			<li class="nav-item">
@@ -56,7 +56,7 @@
     <P>Con questi primi piatti riuscerete a viaggiare tutta la Sicilia attraverso il senso del gusto!</P>
     <ul>
     	<li>Pasta alla norma: iniziamo con un classico, è composta dalle melanzane, dalla salsa di pomodoro e ricotta salata.</li>
-    	<li>Pasta con i tenerumi: i tenerumi sono le fogliee i germogli delle zucchina bianca, sottile e molto tener. La pasta con i tenerumi è una minestra e tra gli ingredienti ci sono anche pomodori pelati e aglio.</li>
+    	<li>Pasta con i tenerumi: i tenerumi sono le foglie i germogli delle zucchina bianca, sottile e molto tenera. La pasta con i tenerumi è una minestra e tra gli ingredienti ci sono anche pomodori pelati e aglio.</li>
     	<li>Pasta con le sarde: Gli ingredienti di questa tipica pasta sicilianan sono: finocchietto,sarde fresche, uvetta,filetti di acciuga,1 cipolla, zafferano in polvere, sale e pepe.</li>
     	<li>Pasta n'casciata:maccheroni, 2 uova sode, melanzana,proscitto cotto,caciocavallo fresco, passata di pomodoro,basilico, pangrattato, sale e pepe.</li>
     	<li>Pasta cà muddica atturrata:spaghetti,aglio,peperoncino,pangrattato,olio evo,acciughe,sale e pepe nero.</li>	
