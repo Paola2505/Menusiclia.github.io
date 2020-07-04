@@ -23,16 +23,7 @@
      	<p> Speriamo di poter portare tutti i colori della Sicilia.</p>
       		<ul class="nav">
       			<li class="nav-item">
-      				<a class="nav-link" href="#">ANTIPASTI</a>
-      			</li>
-      			<li class="nav-item">
-      				<a class="nav-link" href="#">PRIMI</a>
-      			</li>
-      			<li class="nav-item">
-      				<a class="nav-link" href="#">SECONDI</a>
-      			</li>
-      			<li class="nav-item">
-      				<a class="nav-link" href="#">DOLCI</a>
+      				<a class="nav-link" href="#"> I MIGLIORI RISTORANTI DI PALERMO </a>
       			</li>
       		</ul>
 
@@ -82,5 +73,5 @@
    <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
  <script src="js/bootstrap.min.js"></script>
  
-    </body>
+   </body>
 </html>
