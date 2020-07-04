@@ -1,8 +1,9 @@
 # Paola2505.github.io
 <html>
-<body>
+<style="font font-family: freestyle script; text-align: right; font-size: 30px; color: white">
+ <body>
 <body background="https://acicastelloonline.files.wordpress.com/2017/03/agrumi-siciliani.jpg">
- <style="font font-family: freestyle script; text-align: right; font-size: 30px; color: white">   
+  
 Questo sito è stato creato per dare, innanzitutto, un contributo ambientale; ma anche per aiutare tutti i ristorati che si trovano a doversi adattare alle nuove norme anti-Covid.
 ==================================================================================================================================================================================
 
