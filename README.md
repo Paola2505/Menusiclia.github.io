@@ -60,6 +60,15 @@
     	<li>Pasta con le sarde: Gli ingredienti di questa tipica pasta sicilianan sono: finocchietto,sarde fresche, uvetta,filetti di acciuga,1 cipolla, zafferano in polvere, sale e pepe.</li>
     	<li>Pasta n'casciata:maccheroni, 2 uova sode, melanzana,proscitto cotto,caciocavallo fresco, passata di pomodoro,basilico, pangrattato, sale e pepe.</li>
     	<li>Pasta cà muddica atturrata:spaghetti,aglio,peperoncino,pangrattato,olio evo,acciughe,sale e pepe nero.</li>	
+	
+<h1>I NOSTRI SECONDI</h1>
+<p>La cucina siciliana è imbattibile. Forte di una tradizione millenaria, non teme confronti e conquista i palati di tutto il mondo.</p>
+ <ul>
+ 	<li>Sarde a beccafico: non possiamo che iniziare con un piatto che è noto in tutto il mondo. Questi piccoli involtini di sarde sono tipici del Palermitano, ma ben noti in tutta la Sicilia. Gli ingredienti sono semplici, il risultato speciale!</li>
+ 	<li>Falsomagro o “bruciuluni”: è un grosso involtino di carne, ripieno di tanti ingredienti golosi. È uno dei piatti tipici del pranzo della domenica, una di quelle ricette siciliane che bisogna per forza provare!</li>
+ 	<li>Agghiotta di stoccafisso: è un piatto tipico del Messinese, che esalta il sapore dello stoccafisso con ingredienti semplici, ma molto gustosi.
+ 	<li>Agglassato di carne: il termine “agglassato” deriva dal verbo francese “glacer”, glassare. Fa riferimento al tipo di preparazione della ricetta. Le cipolle, a cottura ultimata, avvolgono completamente la carne, così come in pasticceria una glassa ricopre interamente un dolce</li>
+ </ul>
 
 <h1> I NOSTRI DOLCI!</h1>
 	<p> non importa quanto tu abbia mangiato.. c'è sempre spazio per un dolce!</p>
