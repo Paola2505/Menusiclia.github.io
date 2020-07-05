@@ -26,13 +26,13 @@
       				<a class="nav-link" href="https://www.scattidigusto.it/2018/06/15/ristoranti-palermo-10-migliori/"> I MIGLIORI RISTORANTI DI PALERMO </a>
       			</li>
 			<li class="nav-item">
+      				<a class="nav-link" href="#">INIZIO E FINE PASTO: I NOSTRI ANTIPASTI E I NOSTRI DOLCI</a>
+      			</li>
+			<li class="nav-item">
       				<a class="nav-link" href="https://sicilianfood5.github.io/">PORTATE PRINCIPALI: I NOSTRI PRIMI</a>
       			</li>
       			<li class="nav-item">
       				<a class="nav-link" href="https://ignazio-gif.github.io/">PORTATE PRINCIPALI: I NOSTRI SECONDI</a>
-      			</li>
-			<li class="nav-item">
-      				<a class="nav-link" href="#">INIZIO E FINE PASTO: GLI ANTIPASTI E I DOLCI</a>
       			</li>
       		</ul>
 
