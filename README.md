@@ -25,6 +25,12 @@
       			<li class="nav-item">
       				<a class="nav-link" href="https://www.scattidigusto.it/2018/06/15/ristoranti-palermo-10-migliori/"> I MIGLIORI RISTORANTI DI PALERMO </a>
       			</li>
+			<li class="nav-item">
+      				<a class="nav-link" href="#">PORTATE PRINCIPALI: I NOSTRI PRIMI</a>
+      			</li>
+      			<li class="nav-item">
+      				<a class="nav-link" href="#">PORTATE PRINCIPALI: I NOSTRI SECONDI</a>
+      			</li>
       		</ul>
 
 
