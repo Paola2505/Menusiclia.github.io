@@ -19,6 +19,7 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css.map">
 </head>
    <body>
+	<body background="https://acicastelloonline.files.wordpress.com/2017/03/agrumi-siciliani.jpg">   
 <h1> Questo sito è stato creato per dare, innanzitutto, un contributo ambientale; ma anche per aiutare tutti i ristoratori che si trovano a doversi adattare alle nuove norme anti-Covid.</h1>
      	<p> Speriamo di poter portare tutti i colori della Sicilia.</p>
       		<ul class="nav">
